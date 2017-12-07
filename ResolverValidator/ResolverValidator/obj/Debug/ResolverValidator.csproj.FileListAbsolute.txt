@@ -1,0 +1,17 @@
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\bin\Debug\ResolverValidator.exe.config
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\bin\Debug\ResolverValidator.exe
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\bin\Debug\ResolverValidator.pdb
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\obj\Debug\ResolverValidator.csprojResolveAssemblyReference.cache
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\obj\Debug\ResolverValidator.Form1.resources
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\obj\Debug\ResolverValidator.Properties.Resources.resources
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\obj\Debug\ResolverValidator.csproj.GenerateResource.Cache
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\obj\Debug\ResolverValidator.exe
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\obj\Debug\ResolverValidator.pdb
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\bin\Debug\EntityFramework.dll
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\bin\Debug\System.Data.SQLite.dll
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\bin\Debug\EntityFramework.xml
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\natan.radostin\Documents\GitHub\ResourceResolverValidator\ResolverValidator\ResolverValidator\bin\Debug\System.Data.SQLite.xml
